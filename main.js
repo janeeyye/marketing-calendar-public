@@ -158,7 +158,7 @@ function openModal(event){
   const end = clampEnd(event.startDate, event.endDate);
   modalDate.textContent = (start === end) ? start : `${start} ~ ${end}`;
 
-  const loc = (ev.location || "").trim();
+  const loc = (event.location || "").trim();
   const isOnline = /digital|online/i.test(loc);
 
   modalLocation.textContent = loc
@@ -175,7 +175,7 @@ function openModal(event){
 
   if (event.registrationUrl && event.registrationUrl.trim()){
     modalRegRow.classList.remove("hidden");
-    modalRegLink.textContent = event.registrationUrl;
+    modalRegLink.textContent = "등록 페이지로 이동";
     modalRegLink.href = event.registrationUrl;
   } else {
     modalRegRow.classList.add("hidden");
