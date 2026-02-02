@@ -158,7 +158,13 @@ function openModal(event){
   const end = clampEnd(event.startDate, event.endDate);
   modalDate.textContent = (start === end) ? start : `${start} ~ ${end}`;
 
-  modalLocation.textContent = event.location || "-";
+  const loc = (ev.location || "").trim();
+  const isOnline = /digital|online/i.test(loc);
+
+  modalLocation.textContent = loc
+    ? (isOnline ? `온라인 · ${loc}` : `오프라인 · ${loc}`)
+    : "-";
+
 
   if (event.time && event.time.trim()){
     modalTimeRow.classList.remove("hidden");
