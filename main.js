@@ -6,6 +6,13 @@ const SOLUTIONS = [
   "All CSAs",
 ];
 
+const SOLUTION_LABEL = {
+  "AI Business Solutions": "Copilot",
+  "Cloud and AI Platforms": "Cloud & AI",
+  "Security": "Security",
+  "All CSAs": "Multi-Solution",
+};
+
 const SOLUTION_COLOR = {
   "AI Business Solutions": "var(--sol-ai-business)",
   "Cloud and AI Platforms": "var(--sol-cloud-ai)",
@@ -106,31 +113,29 @@ function renderFilters(){
     const pill = document.createElement("button");
     pill.type = "button";
     pill.className = "filter-pill";
-    pill.textContent = sol;
+    pill.textContent = SOLUTION_LABEL[sol] || sol;
+
     const PRIMARY_SOLUTIONS = [
       "AI Business Solutions",
       "Cloud and AI Platforms",
       "Security",
-      ];
+    ];
     const ALL_CSAS = "All CSAs";
     
     const anyPrimaryOn = PRIMARY_SOLUTIONS.some(s => activeFilters.has(s));
 
     const isActive =
       sol === ALL_CSAS
-      // 다른 솔루션이 하나라도 켜져 있으면 "자동 포함" → ON처럼 표시
       ? anyPrimaryOn || activeFilters.has(ALL_CSAS)
-      // 그 외 솔루션은 기존대로
       : activeFilters.has(sol);
     
     setPillActive(pill, sol, isActive);
-
 
     pill.addEventListener("click", () => {
       if (activeFilters.has(sol)) activeFilters.delete(sol);
       else activeFilters.add(sol);
 
-      // if user turned everything off, turn everything back on (avoid empty confusion)
+      // if user turned everything off, turn everything back on
       if (activeFilters.size === 0){
         SOLUTIONS.forEach(s => activeFilters.add(s));
       }
@@ -151,7 +156,7 @@ function monthTitle(date){
 function openModal(event){
   modalTitle.textContent = event.title || "(Untitled)";
   const sol = event.solution || "";
-  modalSolutionPill.textContent = sol;
+  modalSolutionPill.textContent = SOLUTION_LABEL[sol] || sol;
   modalSolutionPill.style.background = SOLUTION_COLOR[sol] || "var(--muted-foreground)";
 
   const start = event.startDate;
@@ -164,7 +169,6 @@ function openModal(event){
   modalLocation.textContent = loc
     ? (isOnline ? `온라인 · ${loc}` : `오프라인 · ${loc}`)
     : "-";
-
 
   if (event.time && event.time.trim()){
     modalTimeRow.classList.remove("hidden");
@@ -214,7 +218,7 @@ function renderCalendar(){
     "AI Business Solutions",
     "Cloud and AI Platforms",
     "Security",
-    ];
+  ];
   const ALL_CSAS = "All CSAs";
   
   const anyPrimaryOn = PRIMARY_SOLUTIONS.some(sol => activeFilters.has(sol));
@@ -223,10 +227,9 @@ function renderCalendar(){
     if (ev.solution === ALL_CSAS) {
       // 다른 솔루션이 하나라도 켜져 있으면 자동 포함
       return anyPrimaryOn || activeFilters.has(ALL_CSAS);
-      }
+    }
     return activeFilters.has(ev.solution);
-    });
-
+  });
 
   const searchedEvents = searchQuery
     ? events.filter(ev => {
@@ -371,7 +374,6 @@ function attachEvents(){
       renderCalendar();
     });
   }
-
 
   const closeHandlers = [modalCloseBtn, modalCloseBtn2];
   closeHandlers.forEach(btn => btn.addEventListener("click", closeModal));
