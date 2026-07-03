@@ -879,7 +879,7 @@
       "metaText": "Webinar",
       "description": "이번 웨비나에서는 Copilot Cowork가 이메일, 일정, 문서 작성과 같은 업무를 어떻게 직접 수행하는지 데모로 확인하고, Copilot과 에이전트를 사내 데이터와 시스템에 연결해 복잡한 업무를 자동화한 사례도 함께 살펴봅니다.",
       "url": "https://msevents.microsoft.com/event?id=4131884324&ct=1782367023562",
-      "displayOrder": 0
+      "displayOrder": 0,
       "solution": "AI Business Solutions"
     }
   ],
