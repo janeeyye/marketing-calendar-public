@@ -370,7 +370,7 @@ function renderSidebar(){
       "var(--sol-cloud-ai)",
       "var(--sol-security)",
     ];
-    byDisplayOrder(highlights).slice(0, 2).forEach((item, index) => {
+    byDisplayOrder(highlights).slice(0, 3).forEach((item, index) => {
       const card = document.createElement("article");
       card.className = "highlight-card";
       card.style.borderLeftColor = SOLUTION_COLOR[item.solution] || highlightColors[index % highlightColors.length];
