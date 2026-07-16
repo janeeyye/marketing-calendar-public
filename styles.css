@@ -95,7 +95,7 @@ a:hover { text-decoration: underline; }
 }
 
 .filter-pill {
-  font-size: 12px;
+  font-size: 14px;
   padding: 6px 10px;
   border-radius: 999px;
   border: 1px solid var(--border);
@@ -331,7 +331,7 @@ a:hover { text-decoration: underline; }
   box-shadow: 0 3px 12px rgba(0,0,0,0.06);
 }
 .search-meta{
-  font-size: 12px;
+  font-size: 13px;
   color: var(--muted-foreground);
 }
 
@@ -378,12 +378,12 @@ a:hover { text-decoration: underline; }
   border-radius: 10px;
   background: #fff;
 }
-.highlight-title { font-size: 13px; font-weight: 700; line-height: 1.45; margin-bottom: 5px; }
-.highlight-meta { font-size: 11px; color: var(--muted-foreground); margin-bottom: 7px; }
-.highlight-description { font-size: 12px; line-height: 1.55; margin-bottom: 9px; color: #444; }
+.highlight-title { font-size: 14px; font-weight: 700; line-height: 1.45; margin-bottom: 5px; }
+.highlight-meta { font-size: 12px; color: var(--muted-foreground); margin-bottom: 7px; }
+.highlight-description { font-size: 13px; line-height: 1.55; margin-bottom: 9px; color: #444; }
 .sidebar-link {
   display: inline-flex;
-  font-size: 11px;
+  font-size: 13px;
   font-weight: 600;
   color: var(--ring);
   text-decoration: none;
@@ -416,11 +416,11 @@ a:hover { text-decoration: underline; }
   font-size: 10px;
 }
 .ondemand-copy { min-width: 0; flex: 1; }
-.ondemand-title { font-size: 12px; font-weight: 600; line-height: 1.4; }
-.ondemand-date { font-size: 10px; color: var(--muted-foreground); margin-top: 2px; }
+.ondemand-title { font-size: 13px; font-weight: 600; line-height: 1.4; }
+.ondemand-date { font-size: 11px; color: var(--muted-foreground); margin-top: 2px; }
 .ondemand-arrow,
 .quicklink-arrow { margin-left: auto; color: var(--muted-foreground); font-size: 14px; }
-.quicklink-title { font-size: 12px; font-weight: 500; }
+.quicklink-title { font-size: 13px; font-weight: 500; }
 .quicklink-item.disabled { color: var(--muted-foreground); cursor: default; }
 
 @media (max-width: 1180px) {
