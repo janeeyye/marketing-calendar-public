@@ -891,15 +891,6 @@
       "solution": "AI Business Solutions"
     },
     {
-      "id": "dcf83d3a-3ba7-4031-bdae-9d97f06a47d2",
-      "title": "트레이닝: Build agentic AI solutions with Azure AI Foundry",
-      "metaText": "Webinar",
-      "description": "AI 에이전트를 사내 데이터와 시스템에 연결하고, 복잡한 업무를 자동화하는 지능형 애플리케이션 개발 방법을 알아보세요.",
-      "url": "https://msevents.microsoft.com/event?id=3346740130",
-      "displayOrder": 1,
-      "solution": "Cloud and AI Platforms"
-    },
-    {
       "id": "d5a4ed4f-68fe-420b-ae29-ab33d8954630",
       "title": "신뢰 가능한 AI를 위한 보안 전략: AI·보안·규제 대응 전략의 설계부터 운영까지",
       "metaText": "Webinar",
