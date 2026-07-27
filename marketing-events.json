@@ -907,6 +907,36 @@
       "location": "Digital",
       "time": "",
       "registrationUrl": "https://aka.ms/FTW-ASIA-Reg"
+    },
+    {
+      "id": "event-1785128997328-har7ryamd",
+      "title": "트레이닝: Build AI Apps with Azure Database for PostgreSQL",
+      "solution": "Cloud and AI Platforms",
+      "startDate": "2026-08-03",
+      "endDate": "2026-08-04",
+      "location": "Digital (한국어 자막)",
+      "time": "12:30 – 3:00 PM",
+      "registrationUrl": "https://msevents.microsoft.com/event?id=851830289"
+    },
+    {
+      "id": "event-1785129312411-7d15p29d2",
+      "title": "트레이닝: Develop Generative AI Apps with Azure AI Foundry",
+      "solution": "Cloud and AI Platforms",
+      "startDate": "2026-08-12",
+      "endDate": "2026-08-13",
+      "location": "Digital (한국어 자막)",
+      "time": "12:30 – 3:00 PM",
+      "registrationUrl": "https://msevents.microsoft.com/event?id=2140408092"
+    },
+    {
+      "id": "event-1785129445994-ccsdn2tbs",
+      "title": "트레이닝: Introduction to Microsoft Security",
+      "solution": "Security",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-25",
+      "location": "Digital (한국어 자막)",
+      "time": "12:30 – 3:30 PM",
+      "registrationUrl": "https://msevents.microsoft.com/event?id=355290422"
     }
   ],
   "highlights": [
