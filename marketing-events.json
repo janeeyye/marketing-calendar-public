@@ -947,6 +947,16 @@
       "location": "Digital (한국어 자막)",
       "time": "10:00 AM - 11:00 AM",
       "registrationUrl": "https://msevents.microsoft.com/event?id=3420950477"
+    },
+    {
+      "id": "event-1785133949266-o1s2lbd7r",
+      "title": "트레이닝: Protect Sensitive Information in the AI Era with Microsoft Purview",
+      "solution": "Security",
+      "startDate": "2026-08-10",
+      "endDate": "2026-08-11",
+      "location": "Digital (한국어 자막)",
+      "time": "12:30 – 2:45 PM",
+      "registrationUrl": "https://msevents.microsoft.com/event?id=3889960838"
     }
   ],
   "highlights": [
