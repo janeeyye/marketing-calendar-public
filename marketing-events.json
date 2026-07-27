@@ -862,11 +862,10 @@
       "title": "Microsoft Frontier Transformation Week",
       "solution": "All CSAs",
       "startDate": "2026-08-18",
-      "endDate": "2026-08-21",
-      "time": "",
+      "endDate": "2026-08-18",
       "location": "Digital",
-      "registrationUrl": "https://aka.ms/FTW-ASIA-Reg",
-      "vivaEngageUrl": ""
+      "time": "",
+      "registrationUrl": "https://aka.ms/FTW-ASIA-Reg"
     },
     {
       "id": "8a6bf710-a150-49e3-84c7-8bd03efc52a7",
@@ -878,6 +877,36 @@
       "location": " COEX, Hall D",
       "registrationUrl": "https://www.isecconference.org/2026/kor/",
       "vivaEngageUrl": ""
+    },
+    {
+      "id": "event-1785120015844-m9unh95p9",
+      "title": "Microsoft Frontier Transformation Week",
+      "solution": "All CSAs",
+      "startDate": "2026-08-19",
+      "endDate": "2026-08-19",
+      "location": "Digital",
+      "time": "",
+      "registrationUrl": "https://aka.ms/FTW-ASIA-Reg"
+    },
+    {
+      "id": "event-1785120037213-n8mzjeqhx",
+      "title": "Microsoft Frontier Transformation Week",
+      "solution": "All CSAs",
+      "startDate": "2026-08-20",
+      "endDate": "2026-08-20",
+      "location": "Digital",
+      "time": "",
+      "registrationUrl": "https://aka.ms/FTW-ASIA-Reg"
+    },
+    {
+      "id": "event-1785120051486-z2i4b9a1t",
+      "title": "Microsoft Frontier Transformation Week",
+      "solution": "All CSAs",
+      "startDate": "2026-08-21",
+      "endDate": "2026-08-21",
+      "location": "Digital",
+      "time": "",
+      "registrationUrl": "https://aka.ms/FTW-ASIA-Reg"
     }
   ],
   "highlights": [
