@@ -433,7 +433,7 @@ function renderSidebar(){
 
   if (quickLinkListEl){
     quickLinkListEl.innerHTML = "";
-    byDisplayOrder(quickLinks).slice(0, 2).forEach(item => {
+    byDisplayOrder(quickLinks).forEach(item => {
       const el = item.url ? document.createElement("a") : document.createElement("div");
       el.className = "quicklink-item" + (item.url ? "" : " disabled");
       if (item.url){ el.href = item.url; el.target = "_blank"; el.rel = "noreferrer"; }
