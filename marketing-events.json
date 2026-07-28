@@ -957,17 +957,26 @@
       "location": "Digital (한국어 자막)",
       "time": "12:30 – 2:45 PM",
       "registrationUrl": "https://msevents.microsoft.com/event?id=3889960838"
+    },
+    {
+      "id": "event-1785201318823-uh26awfnj",
+      "title": "트레이닝: 데이터 분석부터 기획까지, Microsoft 365 Copilot 활용법",
+      "solution": "AI Business Solutions",
+      "startDate": "2026-08-06",
+      "endDate": "",
+      "location": "Digital (한국어 자막)",
+      "time": "3:00 PM – 4:00 PM",
+      "registrationUrl": "https://msevents.microsoft.com/event?id=4167426914"
     }
   ],
   "highlights": [
     {
-      "id": "7acb6177-bcd7-4b09-8754-a963f99d31fd",
       "title": "반복 설명은 이제 그만: 내 업무 방식을 기억하는 Copilot Cowork Skills",
+      "solution": "AI Business Solutions",
       "metaText": "Webinar",
       "description": "이번 웨비나에서는 Copilot Cowork의 업무 실행 방식을 살펴보고, 반복되는 업무 절차와 기준을 나만의 Skill로 만들어 Word·Excel·PowerPoint에서 활용하는 방법을 데모로 확인합니다.",
       "url": "https://msevents.microsoft.com/event?id=2190459471",
-      "displayOrder": 0,
-      "solution": "AI Business Solutions"
+      "displayOrder": 1
     },
     {
       "id": "d5a4ed4f-68fe-420b-ae29-ab33d8954630",
@@ -977,6 +986,14 @@
       "url": "https://msevents.microsoft.com/event?id=2496857796",
       "displayOrder": 2,
       "solution": "Security"
+    },
+    {
+      "title": "Microsoft Frontier Transformation Week",
+      "solution": "All CSAs",
+      "metaText": "Webinar",
+      "description": "AI를 PoC에서 실제 적용 단계로 발전시키기 위한 Frontier Transformation 전략과 국내 고객 사례를 소개합니다. 세션과 데모를 통해 기술적 인사이트와 현업에서 바로 활용할 수 있는 실용적인 가이드를 확인해 보세요.",
+      "url": "https://events.microsoft.com/flow/microsoft/ftw3577624602/registration/page/landing?wt.mc_ID=frontierweek2026_ciarmar_corp_np_oo_ASIAField",
+      "displayOrder": 0
     }
   ],
   "onDemand": [
