@@ -974,7 +974,7 @@
       "title": "반복 설명은 이제 그만: 내 업무 방식을 기억하는 Copilot Cowork Skills",
       "solution": "AI Business Solutions",
       "metaText": "Webinar",
-      "description": "이번 웨비나에서는 Copilot Cowork의 업무 실행 방식을 살펴보고, 반복되는 업무 절차와 기준을 나만의 Skill로 만들어 Word·Excel·PowerPoint에서 활용하는 방법을 데모로 확인합니다.",
+      "description": "Copilot Cowork의 업무 실행 방식을 살펴보고, 반복되는 업무 절차와 기준을 나만의 Skill로 만들어 Word·Excel·PowerPoint에서 활용하는 방법을 데모로 확인합니다.",
       "url": "https://msevents.microsoft.com/event?id=2190459471",
       "displayOrder": 1
     },
@@ -1002,6 +1002,20 @@
       "metaText": "Copilot",
       "url": "https://info.microsoft.com/KO-CAW-CNTNTO-FY26-04Apr-28-AI-for-Everyone-Copilot-SREVM90383_Catalog-Display-Page.html",
       "displayOrder": 0
+    },
+    {
+      "title": "일잘러를 위한 Copilot 활용법: Cowork부터 Excel 업무 자동화까지",
+      "solution": "AI Business Solutions",
+      "metaText": "Copilot",
+      "url": "https://info.microsoft.com/KO-CAW-ONDWBNR-FY27-07Jul-22-How-High-Performers-Use-Copilot-From-Collaboration-to-Excel-Task-Automation-SRGCM16849_LP01-Registration---Form-in-Body.html",
+      "displayOrder": 1
+    },
+    {
+      "title": "고객 사례로 보는 AI와 에이전트: KT와 LG U+가 실제 업무에 적용한 방법",
+      "solution": "AI Business Solutions",
+      "metaText": "Copilot",
+      "url": "https://info.microsoft.com/KO-CAW-ONDWBNR-FY27-07Jul-22-AI-and-Agents-Through-Customer-Use-Cases-How-KT-and-LG-U-Applied-Them-to-Real-World-Operations-SRGCM16850_LP01-Registration---Form-in-Body.html",
+      "displayOrder": 2
     }
   ],
   "quickLinks": [
