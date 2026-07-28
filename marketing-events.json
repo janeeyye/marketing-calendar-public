@@ -979,21 +979,20 @@
       "displayOrder": 1
     },
     {
-      "id": "d5a4ed4f-68fe-420b-ae29-ab33d8954630",
-      "title": "신뢰 가능한 AI를 위한 보안 전략: AI·보안·규제 대응 전략의 설계부터 운영까지",
-      "metaText": "Webinar",
-      "description": "에이전틱 AI 시대, 기업이 AI를 안전하게 도입·확장하기 위한 보안 및 거버넌스 전략을 소개합니다. 신뢰할 수 있는 AI 환경 구축과 규제 대응 방안을 함께 살펴봅니다.",
-      "url": "https://msevents.microsoft.com/event?id=2496857796",
-      "displayOrder": 2,
-      "solution": "Security"
-    },
-    {
       "title": "Microsoft Frontier Transformation Week",
       "solution": "All CSAs",
       "metaText": "Webinar",
       "description": "AI를 PoC에서 실제 적용 단계로 발전시키기 위한 Frontier Transformation 전략과 국내 고객 사례를 소개합니다. 세션과 데모를 통해 기술적 인사이트와 현업에서 바로 활용할 수 있는 실용적인 가이드를 확인해 보세요.",
       "url": "https://events.microsoft.com/flow/microsoft/ftw3577624602/registration/page/landing?wt.mc_ID=frontierweek2026_ciarmar_corp_np_oo_ASIAField",
       "displayOrder": 0
+    },
+    {
+      "title": "Microsoft Discovery Session: Build Context-Aware Agents That Drive Real Business Decisions",
+      "solution": "Cloud and AI Platforms",
+      "metaText": "Webinar",
+      "description": "Microsoft IQ를 활용해 기업 데이터에 기반한 컨텍스트 중심 AI 에이전트 구축 및 확장 전략을 소개합니다.",
+      "url": "https://msevents.microsoft.com/event?id=3420950477",
+      "displayOrder": 2
     }
   ],
   "onDemand": [
