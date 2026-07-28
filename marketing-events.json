@@ -1016,6 +1016,18 @@
       "title": "월간 코파일럿: 스낵처럼 가볍게, 업데이트는 한 입에!",
       "url": "https://ep-aitour-abf2fubhgfftdufa.b02.azurefd.net/#subscribe",
       "displayOrder": 1
+    },
+    {
+      "title": "Microsoft Azure 설명서",
+      "solution": "Cloud and AI Platforms",
+      "url": "https://learn.microsoft.com/ko-kr/azure/?product=popular",
+      "displayOrder": 0
+    },
+    {
+      "title": "Microsoft Security",
+      "solution": "Security",
+      "url": "https://www.microsoft.com/ko-kr/security",
+      "displayOrder": 0
     }
   ]
 }
