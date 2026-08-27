@@ -370,7 +370,7 @@ function renderSidebar(){
       "var(--sol-cloud-ai)",
       "var(--sol-security)",
     ];
-    byDisplayOrder(highlights).slice(0, 3).forEach((item, index) => {
+    byDisplayOrder(highlights).forEach((item, index) => {
       const card = document.createElement("article");
       card.className = "highlight-card";
       card.style.borderLeftColor = SOLUTION_COLOR[item.solution] || highlightColors[index % highlightColors.length];
@@ -404,7 +404,7 @@ function renderSidebar(){
 
   if (onDemandListEl){
     onDemandListEl.innerHTML = "";
-    byDisplayOrder(onDemand).slice(0, 3).forEach(item => {
+    byDisplayOrder(onDemand).forEach(item => {
       const a = document.createElement("a");
       a.className = "ondemand-item";
       a.href = item.url || "#";
