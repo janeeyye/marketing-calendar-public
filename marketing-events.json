@@ -1077,6 +1077,26 @@
       "location": "한국 마이크로소프트 13층",
       "time": "09:00 AM - 4:00 PM",
       "registrationUrl": "https://msevents.microsoft.com/event?id=4221931990"
+    },
+    {
+      "id": "event-1790841488945-fqhco9ztd",
+      "title": "Building a Secure Foundation for AI Transformation",
+      "solution": "Security",
+      "startDate": "2026-10-06",
+      "endDate": "2026-10-06",
+      "location": "Digital (한국어 자막)",
+      "time": "09:00 AM - 10:00 AM, 2:00 - 3:00 PM",
+      "registrationUrl": ""
+    },
+    {
+      "id": "event-1790841546381-fftxd626r",
+      "title": "Protecting the Agentic Enterprise: From Discovery to Defense​",
+      "solution": "Security",
+      "startDate": "2026-10-07",
+      "endDate": "2026-10-07",
+      "location": "Digital (한국어자막)",
+      "time": "09:00 AM - 10:00 AM, 2:00 PM - 3:00 PM",
+      "registrationUrl": ""
     }
   ],
   "highlights": [
