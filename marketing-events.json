@@ -1047,6 +1047,16 @@
       "location": "Digital (한국어 자막)",
       "time": "1:30 PM – 2:45 PM",
       "registrationUrl": "https://msevents.microsoft.com/event?id=2046542409"
+    },
+    {
+      "id": "event-1790838545839-9hc18tp5l",
+      "title": "[AI Genius | Season 6] Episode 1 | 더 스마트한 AI 워크플로 설계",
+      "solution": "Cloud and AI Platforms",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-28",
+      "location": "Digital (한국어)",
+      "time": "2:30 - 3:30 PM",
+      "registrationUrl": "https://developer.microsoft.com/en-us/reactor/events/27624/"
     }
   ],
   "highlights": [
