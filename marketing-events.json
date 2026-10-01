@@ -1137,6 +1137,16 @@
       "location": "Digital (한국어자막)",
       "time": "09:00 AM - 10:00 AM, 2:00 PM - 3:00 PM",
       "registrationUrl": ""
+    },
+    {
+      "id": "event-1790843313969-c4at4fipm",
+      "title": "AI를 업무와 비즈니스의 흐름에 통합하기",
+      "solution": "AI Business Solutions",
+      "startDate": "2026-10-27",
+      "endDate": "",
+      "location": "Digital (한국어)",
+      "time": "1:00 PM – 2:00 PM",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
     }
   ],
   "highlights": [
