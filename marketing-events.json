@@ -1139,13 +1139,23 @@
       "registrationUrl": ""
     },
     {
-      "id": "event-1790843313969-c4at4fipm",
-      "title": "AI를 업무와 비즈니스의 흐름에 통합하기",
-      "solution": "AI Business Solutions",
-      "startDate": "2026-10-27",
-      "endDate": "",
+      "id": "event-1790843428554-u9cu9wkyo",
+      "title": "실제 비즈니스 의사결정을 이끄는 컨텍스트 기반 AI 에이전트 구축",
+      "solution": "Cloud and AI Platforms",
+      "startDate": "2026-10-12",
+      "endDate": "2026-10-12",
       "location": "Digital (한국어)",
-      "time": "1:00 PM – 2:00 PM",
+      "time": "1:00 PM - 2:00 PM",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "event-1790843469657-nhcifdxmg",
+      "title": "비즈니스를 이해하는 AI로 에이전트와 애플리케이션 개발 속도 높이기",
+      "solution": "Cloud and AI Platforms",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-14",
+      "location": "Digital (한국어)",
+      "time": "1:00 PM - 2:00 PM",
       "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
     }
   ],
