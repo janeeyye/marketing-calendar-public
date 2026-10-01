@@ -1057,6 +1057,26 @@
       "location": "Digital (한국어)",
       "time": "2:30 - 3:30 PM",
       "registrationUrl": "https://developer.microsoft.com/en-us/reactor/events/27624/"
+    },
+    {
+      "id": "event-1790838847463-wqp5e863o",
+      "title": "Microsoft Technical Workshop: 안전한 기반 위에서 AI를 준비하다",
+      "solution": "Security",
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-27",
+      "location": "한국 마이크로소프트 13층",
+      "time": "9:00 AM – 5:15 PM",
+      "registrationUrl": "https://msevents.microsoft.com/event?id=2870313914"
+    },
+    {
+      "id": "event-1790838933568-apckhlzto",
+      "title": "Microsoft Technical Workshop: 대규모 환경에서 안전하게 AI 활용하기",
+      "solution": "Security",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-28",
+      "location": "한국 마이크로소프트 13층",
+      "time": "09:00 AM - 4:00 PM",
+      "registrationUrl": "https://msevents.microsoft.com/event?id=4221931990"
     }
   ],
   "highlights": [
