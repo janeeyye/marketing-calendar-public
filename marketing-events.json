@@ -1167,6 +1167,26 @@
       "location": "Digital (한국어)",
       "time": "1:00 PM – 2:00 PM",
       "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "event-1790903519190-ssz88ggo4",
+      "title": "Bring AI into the Flow of Work—and the Flow of Business",
+      "solution": "AI Business Solutions",
+      "startDate": "2026-10-05",
+      "endDate": "",
+      "location": "Digital (한국어 자막)",
+      "time": "2:00 PM – 3:00 PM",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "event-1790903588124-vfyqzsyvo",
+      "title": "Know What AI Will Cost Before You Scale",
+      "solution": "AI Business Solutions",
+      "startDate": "2026-10-19",
+      "endDate": "",
+      "location": "Digital (한국어 자막)",
+      "time": "2:00 PM – 3:00 PM",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
     }
   ],
   "highlights": [
