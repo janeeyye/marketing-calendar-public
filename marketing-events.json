@@ -1157,6 +1157,86 @@
       "location": "Digital (한국어 자막)",
       "time": "2:00 PM – 3:00 PM",
       "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "event-1790921934414-epzzfpkci",
+      "title": "AI와 현대화로 앞당기는 혁신 | Modernize with AI for a New Pace of Innovation",
+      "solution": "Cloud and AI Platforms",
+      "startDate": "2026-10-08",
+      "endDate": "",
+      "location": "Digital (한국어 자막)",
+      "time": "9:00 AM – 10:00 AM",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "event-1790922026079-7qttquc1z",
+      "title": "맥락 이해에서 의사결정까지, AI 에이전트의 진화 | Build Context-Aware Agents That Drive Real Business Decisions",
+      "solution": "Cloud and AI Platforms",
+      "startDate": "2026-10-12",
+      "endDate": "",
+      "location": "Digital (한국어 자막)",
+      "time": "9:00 AM – 10:00 AM",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "event-1790922135813-escwpm9hm",
+      "title": "에이전틱 ERP 기반의 차세대 재무·운영 구축 | Building Frontier Finance and Operations with Agentic ERP",
+      "solution": "AI Business Solutions",
+      "startDate": "2026-10-15",
+      "endDate": "",
+      "location": "Digital (한국어 자막)",
+      "time": "9:00 AM – 10:00 AM",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "event-1790922250356-2wpw0yogb",
+      "title": "클라우드 네이티브 위에서 실현하는 AI 혁신 | Innovate with AI on a Cloud Native Foundation",
+      "solution": "Cloud and AI Platforms",
+      "startDate": "2026-10-21",
+      "endDate": "",
+      "location": "Digital (한국어 자막)",
+      "time": "9:00 AM – 10:00 AM",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "event-1790922345646-fgsyg6qdv",
+      "title": "개발부터 배포·보안까지, AI 에이전트로 혁신하는 소프트웨어 개발 | Build, Ship, and Secure Software with AI Agents Across the Development Lifecycle",
+      "solution": "Cloud and AI Platforms",
+      "startDate": "2026-10-22",
+      "endDate": "",
+      "location": "Digital (한국어 자막)",
+      "time": "9:00 AM – 10:00 AM",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "event-1790922447159-fzox11dpe",
+      "title": "데이터 주권을 위한 클라우드 전략, Microsoft Sovereign Cloud | Addressing Sovereignty Requirements with Microsoft Sovereign Cloud",
+      "solution": "Cloud and AI Platforms",
+      "startDate": "2026-10-26",
+      "endDate": "",
+      "location": "Digital (한국어 자막)",
+      "time": "9:00 AM – 10:00 AM",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "event-1790922523863-8x8yj46mw",
+      "title": "안전한 AI 전환을 위한 보안 전략 | Building a Secure Foundation for AI Transformation",
+      "solution": "Security",
+      "startDate": "2026-10-28",
+      "endDate": "",
+      "location": "Digital (한국어 자막)",
+      "time": "9:00 AM – 10:00 AM",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "event-1790922585425-or6io5ety",
+      "title": "AI 에이전트 기반 기업의 보안, 발견부터 방어까지 | Protecting the Agentic Enterprise: From Discovery to Defense",
+      "solution": "Security",
+      "startDate": "2026-10-29",
+      "endDate": "",
+      "location": "Digital (한국어 자막)",
+      "time": "10:00 AM – 11:00 AM",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
     }
   ],
   "highlights": [
