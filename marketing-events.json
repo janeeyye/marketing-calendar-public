@@ -1294,6 +1294,13 @@
       "description": "반복 업무 방식과 문서 작성·검토 기준을 Copilot Cowork Skill로 만들어, 한 번의 요청으로 일관되게 실행하는 방법을 알아봅니다.",
       "url": "https://info.microsoft.com/KO-CAW-ONDWBNR-FY27-08Aug-21-No-more-repeating-yourself-Copilot-Cowork-Skills-that-remember-how-I-work-SRGCM16940_LP01-Registration---Form-in-Body.html",
       "displayOrder": 3
+    },
+    {
+      "title": "에이전트, 이제 어떻게 만들까?: Copilot Studio 알아보기",
+      "solution": "AI Business Solutions",
+      "metaText": "Copilot",
+      "url": "https://info.microsoft.com/KO-CAW-ONDWBNR-FY27-09Sep-23-Easily-create-an-agent-that-perfectly-fits-my-work-SRGCM17154_LP01-Registration---Form-in-Body.html",
+      "displayOrder": 0
     }
   ],
   "quickLinks": [
