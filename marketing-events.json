@@ -1237,6 +1237,156 @@
       "location": "Digital (한국어 자막)",
       "time": "10:00 AM – 11:00 AM",
       "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "discovery-20261102-0900-abs-en",
+      "title": "비즈니스 맥락을 이해하는 AI 에이전트로, 진짜 의사결정을 이끌다 | Build Context-Aware Agents That Drive Real Business Decisions",
+      "solution": "AI Business Solutions",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-02",
+      "location": "Digital(영어)",
+      "time": "09:00–10:00 KST",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "discovery-20261102-1300-abs-ko",
+      "title": "실제 비즈니스 의사결정을 이끄는 컨텍스트 기반 AI 에이전트 구축",
+      "solution": "AI Business Solutions",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-02",
+      "location": "Digital(한국어)",
+      "time": "13:00–14:00 KST",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "discovery-20261103-0900-caip-en",
+      "title": "AI로 앱·데이터·인프라를 현대화하다, 새로운 혁신의 속도 | Modernize with AI for a New Pace of Innovation",
+      "solution": "Cloud and AI Platforms",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-03",
+      "location": "Digital(영어)",
+      "time": "09:00–10:00 KST",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "ai-genius-nov-4",
+      "title": "AI Genius Series",
+      "solution": "Cloud and AI Platforms",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-04",
+      "location": "Digital",
+      "time": "",
+      "registrationUrl": ""
+    },
+    {
+      "id": "discovery-20261109-0900-abs-en",
+      "title": "에이전트형 ERP로 그리는 미래의 재무와 운영 | Building Frontier Finance and Operations with Agentic ERP",
+      "solution": "AI Business Solutions",
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-09",
+      "location": "Digital(영어)",
+      "time": "09:00–10:00 KST",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "ciso-rt",
+      "title": "CISO RT",
+      "solution": "Security",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-11",
+      "location": "",
+      "time": "",
+      "registrationUrl": ""
+    },
+    {
+      "id": "discovery-20261111-0900-security-en",
+      "title": "AI 준비된 업무 공간, 변화하는 인재를 위한 준비 | The AI Ready Workspace: Preparing a Dynamic Workforce",
+      "solution": "Security",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-11",
+      "location": "Digital(영어)",
+      "time": "09:00–10:00 KST",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "ai-genius-nov-12",
+      "title": "AI Genius Series",
+      "solution": "Cloud and AI Platforms",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "location": "Digital",
+      "time": "",
+      "registrationUrl": ""
+    },
+    {
+      "id": "discovery-20261112-0900-security-en",
+      "title": "개발부터 배포·보안까지, AI 에이전트로 혁신하는 소프트웨어 개발 | Build, Ship, and Secure Software with AI Agents Across the Development Lifecycle",
+      "solution": "Security",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "location": "Digital(영어)",
+      "time": "09:00–10:00 KST",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "discovery-20261112-1300-security-ko",
+      "title": "AI 에이전트로 개발부터 배포·보안까지 혁신하는 소프트웨어 개발 전략",
+      "solution": "Security",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "location": "Digital(한국어)",
+      "time": "13:00–14:00 KST",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "ev-mvomb0ua-p76fi",
+      "title": "Enhans Webinar",
+      "solution": "Security",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "location": "Digital",
+      "time": "",
+      "registrationUrl": "https://enhans.my.site.com/lp/landing-page/lp-2611-webinar-reliable-agentic-operations/"
+    },
+    {
+      "id": "ignite",
+      "title": "Ignite",
+      "solution": "All CSAs",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-20",
+      "location": "",
+      "time": "",
+      "registrationUrl": ""
+    },
+    {
+      "id": "discovery-20261123-0900-security-en",
+      "title": "신뢰할 수 있는 주권 전략, Microsoft Sovereign Cloud로 완성하다 | Addressing Sovereignty Requirements with Microsoft Sovereign Cloud",
+      "solution": "Security",
+      "startDate": "2026-11-23",
+      "endDate": "2026-11-23",
+      "location": "Digital(영어)",
+      "time": "09:00–10:00 KST",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "discovery-20261124-0900-caip-en",
+      "title": "클라우드 네이티브 기반 위에서, AI로 혁신을 가속하다 | Innovate with AI on a Cloud Native Foundation",
+      "solution": "Cloud and AI Platforms",
+      "startDate": "2026-11-24",
+      "endDate": "2026-11-24",
+      "location": "Digital(영어)",
+      "time": "09:00–10:00 KST",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "discovery-20261126-0900-security-en",
+      "title": "AI 전환을 위한 안전한 기반을 구축하다 | Building a Secure Foundation for AI Transformation",
+      "solution": "Security",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "location": "Digital(영어)",
+      "time": "09:00–10:00 KST",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
     }
   ],
   "highlights": [
