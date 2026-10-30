@@ -1290,13 +1290,13 @@
     },
     {
       "id": "ciso-rt",
-      "title": "CISO RT",
+      "title": "Microsoft CISO Executive Roundtable",
       "solution": "Security",
       "startDate": "2026-11-11",
       "endDate": "2026-11-11",
-      "location": "소피텔 앰배서더 서울 호텔",
+      "location": "소피텔 앰배서더 서울 호텔, 4층, 그랜드볼",
       "time": "07:00-10:00",
-      "registrationUrl": ""
+      "registrationUrl": "https://msevents.microsoft.com/event?id=307313523"
     },
     {
       "id": "discovery-20261111-0900-security-en",
