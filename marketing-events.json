@@ -1245,7 +1245,7 @@
       "startDate": "2026-11-02",
       "endDate": "2026-11-02",
       "location": "Digital (한국어 자막)",
-      "time": "09:00–10:00 KST",
+      "time": "2:00 PM - 3:00 PM",
       "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
     },
     {
@@ -1265,7 +1265,7 @@
       "startDate": "2026-11-03",
       "endDate": "2026-11-03",
       "location": "Digital (한국어 자막)",
-      "time": "09:00–10:00 KST",
+      "time": "2:00 PM - 3:00 PM",
       "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
     },
     {
@@ -1285,7 +1285,7 @@
       "startDate": "2026-11-09",
       "endDate": "2026-11-09",
       "location": "Digital (한국어 자막)",
-      "time": "09:00–10:00 KST",
+      "time": "2:00 PM - 3:00 PM",
       "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
     },
     {
@@ -1305,7 +1305,7 @@
       "startDate": "2026-11-11",
       "endDate": "2026-11-11",
       "location": "Digital (한국어 자막)",
-      "time": "09:00–10:00 KST",
+      "time": "2:00 PM - 3:00 PM",
       "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
     },
     {
@@ -1315,7 +1315,7 @@
       "startDate": "2026-11-12",
       "endDate": "2026-11-12",
       "location": "Digital (한국어)",
-      "time": "2:30 - 3:30 PM",
+      "time": "2:30 PM - 3:30 PM",
       "registrationUrl": "https://developer.microsoft.com/en-us/reactor/events/27627/"
     },
     {
@@ -1325,7 +1325,7 @@
       "startDate": "2026-11-12",
       "endDate": "2026-11-12",
       "location": "Digital (한국어 자막)",
-      "time": "09:00–10:00 KST",
+      "time": "2:00 PM - 3:00 PM",
       "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
     },
     {
@@ -1365,7 +1365,7 @@
       "startDate": "2026-11-23",
       "endDate": "2026-11-23",
       "location": "Digital (한국어 자막)",
-      "time": "09:00–10:00 KST",
+      "time": "2:00 PM - 3:00 PM",
       "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
     },
     {
@@ -1375,7 +1375,7 @@
       "startDate": "2026-11-24",
       "endDate": "2026-11-24",
       "location": "Digital (한국어 자막)",
-      "time": "09:00–10:00 KST",
+      "time": "2:00 PM - 3:00 PM",
       "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
     },
     {
@@ -1385,7 +1385,7 @@
       "startDate": "2026-11-26",
       "endDate": "2026-11-26",
       "location": "Digital (한국어 자막)",
-      "time": "09:00–10:00 KST",
+      "time": "2:00 PM - 3:00 PM",
       "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
     },
     {
@@ -1446,6 +1446,66 @@
       "endDate": "2026-11-10",
       "location": "Digital (한국어)",
       "time": "1:00 PM - 2:00 PM",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "event-1793342133096-b788xsio9",
+      "title": "AI 확장 전 반드시 알아야 할 비용 전략",
+      "solution": "AI Business Solutions",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-25",
+      "location": "Digital (한국어)",
+      "time": "1:00 PM - 2:00 PM",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "event-1793342358656-0kax9ud75",
+      "title": "AI 에이전트로 연결하는 소프트웨어 개발 전 주기: 개발부터 배포, 보안까지 | Build, Ship, and Secure Software with AI Agents Across the Development Lifecycle",
+      "solution": "AI Business Solutions",
+      "startDate": "2026-11-04",
+      "endDate": "",
+      "location": "Digital (한국어 자막)",
+      "time": "2:00 PM - 3:00 PM",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "event-1793342467453-3latahjdp",
+      "title": "에이전트 시대의 기업 보안: 탐색부터 방어까지 | Protecting the Agentic Enterprise: From Discovery to Defense",
+      "solution": "AI Business Solutions",
+      "startDate": "2026-11-05",
+      "endDate": "",
+      "location": "Digital (한국어 자막)",
+      "time": "2:00 PM - 3:00 PM",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "event-1793342543812-1m8p5adbc",
+      "title": "AI 확장을 위한 비용 예측과 최적화 | Know What AI Will Cost Before You Scale",
+      "solution": "AI Business Solutions",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-10",
+      "location": "Digital (한국어 자막)",
+      "time": "2:00 PM – 3:00 PM",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "event-1793342665187-he9cxrsyz",
+      "title": "AI 확장을 위한 비용 예측과 최적화 | Know What AI Will Cost Before You Scale",
+      "solution": "AI Business Solutions",
+      "startDate": "2026-11-25",
+      "endDate": "",
+      "location": "Digital (한국어 자막)",
+      "time": "2:00 PM – 3:00 PM",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "event-1793342810156-ejk547dy8",
+      "title": "AI 기반 현대화로 혁신의 속도를 높이세요 | Modernize with AI for a New Pace of Innovation",
+      "solution": "Cloud and AI Platforms",
+      "startDate": "2026-11-30",
+      "endDate": "",
+      "location": "Digital (한국어 자막)",
+      "time": "2:00 PM – 3:00 PM",
       "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
     }
   ],
