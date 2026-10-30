@@ -1350,7 +1350,7 @@
     },
     {
       "id": "ignite",
-      "title": "Ignite",
+      "title": "Microsoft Ignite",
       "solution": "All CSAs",
       "startDate": "2026-11-17",
       "endDate": "2026-11-20",
@@ -1437,6 +1437,16 @@
       "location": "Digital (한국어)",
       "time": "2:00 PM - 3:00 PM",
       "registrationUrl": "https://copilotandagents.eventbuilder.com/events/11f1c89df74dd590a975efd5f2e6f11d?ref=11102026ASIAKORUPCCW4"
+    },
+    {
+      "id": "event-1793341844445-oh0642wga",
+      "title": "AI 확장 전 반드시 알아야 할 비용 전략",
+      "solution": "AI Business Solutions",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-10",
+      "location": "Digital (한국어)",
+      "time": "1:00 PM - 2:00 PM",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
     }
   ],
   "highlights": [
@@ -1445,24 +1455,24 @@
       "solution": "Cloud and AI Platforms",
       "metaText": "Webinar",
       "description": "비즈니스 맥락과 조직 지식, 데이터를 하나로 연결하는 통합형 인텔리전스 계층을 구축하여 더 정확한 의사결정을 촉진하세요.",
-      "url": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing?tab.deliverymethod=deliverymethod_live",
-      "displayOrder": 2
+      "url": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing",
+      "displayOrder": 0
     },
     {
-      "title": "AI를 업무와 비즈니스의 흐름에 통합하기",
+      "title": "AI 확장 전 반드시 알아야 할 비용 전략",
       "solution": "AI Business Solutions",
       "metaText": "Webinar",
-      "description": "AI 실험을 넘어 생산성을 높이고 업무를 자동화하며 인간-에이전트 팀을 만들어 업무 중심 성과를 신속하게 달성하는 데 도움이 되도록 하세요.",
-      "url": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing?tab.deliverymethod=deliverymethod_live",
+      "description": "AI 비용과 토큰 소비에 영향을 미치는 요인을 이해하세요. 사용량이 확대되는 상황에서도 비용을 체계적으로 관리하고 지출을 예측하는 방법을 알아봅니다.",
+      "url": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing",
       "displayOrder": 1
     },
     {
-      "title": "비즈니스를 이해하는 AI로 에이전트와 애플리케이션 개발 속도 높이기",
-      "solution": "Cloud and AI Platforms",
+      "title": "Microsoft Ignite",
+      "solution": "All CSAs",
       "metaText": "Webinar",
-      "description": "AI 기반 개발 도구를 통해 에이전트를 비즈니스 데이터와 프로세스에 연결하여 더 빠르게 구축, 배포, 관리할 수 있습니다.",
-      "url": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing?tab.deliverymethod=deliverymethod_live",
-      "displayOrder": 0
+      "description": "다가올 미래를 먼저 만나고, 새로운 가능성을 현실로 만들어 보세요. Microsoft Ignite에서 새로운 지평을 열어 가는 아이디어와 기술, 사람들을 직접 만나보세요.",
+      "url": "https://ignite.microsoft.com/en-US/home",
+      "displayOrder": 2
     }
   ],
   "onDemand": [
