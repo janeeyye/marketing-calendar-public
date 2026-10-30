@@ -1270,7 +1270,7 @@
     },
     {
       "id": "ai-genius-nov-4",
-      "title": "Episode 2 | AI 워크플로 품질 측정, 벤치마킹 및 개선",
+      "title": "AI Genius - Episode 2 | AI 워크플로 품질 측정, 벤치마킹 및 개선",
       "solution": "Cloud and AI Platforms",
       "startDate": "2026-11-04",
       "endDate": "2026-11-04",
@@ -1301,7 +1301,7 @@
     {
       "id": "discovery-20261111-0900-security-en",
       "title": "AI 준비된 업무 공간, 변화하는 인재를 위한 준비 | The AI Ready Workspace: Preparing a Dynamic Workforce",
-      "solution": "Security",
+      "solution": "AI Business Solutions",
       "startDate": "2026-11-11",
       "endDate": "2026-11-11",
       "location": "Digital (한국어 자막)",
@@ -1320,22 +1320,12 @@
     },
     {
       "id": "discovery-20261112-0900-security-en",
-      "title": "개발부터 배포·보안까지, AI 에이전트로 혁신하는 소프트웨어 개발 | Build, Ship, and Secure Software with AI Agents Across the Development Lifecycle",
-      "solution": "Security",
+      "title": "AI 에이전트로 연결하는 소프트웨어 개발 전 주기: 개발부터 배포, 보안까지  | Build, Ship, and Secure Software with AI Agents Across the Development Lifecycle",
+      "solution": "AI Business Solutions",
       "startDate": "2026-11-12",
       "endDate": "2026-11-12",
       "location": "Digital (한국어 자막)",
       "time": "2:00 PM - 3:00 PM",
-      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
-    },
-    {
-      "id": "discovery-20261112-1300-security-ko",
-      "title": "AI 에이전트로 개발부터 배포·보안까지 혁신하는 소프트웨어 개발 전략",
-      "solution": "Security",
-      "startDate": "2026-11-12",
-      "endDate": "2026-11-12",
-      "location": "Digital(한국어)",
-      "time": "13:00–14:00 KST",
       "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
     },
     {
@@ -1507,6 +1497,16 @@
       "location": "Digital (한국어 자막)",
       "time": "2:00 PM – 3:00 PM",
       "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
+    },
+    {
+      "id": "event-1793343324181-bih5en712",
+      "title": "Microsoft Security Briefing: 2026 Digital Defense Report Deep-Dive",
+      "solution": "Security",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-11",
+      "location": "Digital (한국어 자막)",
+      "time": "13:00 - 13:40",
+      "registrationUrl": "https://msevents.microsoft.com/event?id=3292606501"
     }
   ],
   "highlights": [
