@@ -1507,6 +1507,16 @@
       "location": "Digital (한국어 자막)",
       "time": "13:00 - 13:40",
       "registrationUrl": "https://msevents.microsoft.com/event?id=3292606501"
+    },
+    {
+      "id": "event-1793345039333-849xh8lup",
+      "title": "AI 에이전트로 개발부터 배포·보안까지 혁신하는 소프트웨어 개발 전략",
+      "solution": "Cloud and AI Platforms",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "location": "Digital (한국어)",
+      "time": "1:00 PM - 2:00 PM",
+      "registrationUrl": "https://events.microsoft.com/flow/microsoft/microsoftds/registration/page/landing"
     }
   ],
   "highlights": [
