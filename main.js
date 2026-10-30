@@ -283,6 +283,8 @@ function renderCalendar(){
       const pb = getEventPosition(day.iso, b.startDate, b.endDate);
       const score = (p) => (p==="single"||p==="start") ? 0 : 1;
       if (score(pa) !== score(pb)) return score(pa)-score(pb);
+      const csa = (ev) => ev.solution === ALL_CSAS ? 0 : 1;
+      if (csa(a) !== csa(b)) return csa(a)-csa(b);
       return (a.title||"").localeCompare(b.title||"");
     });
 
